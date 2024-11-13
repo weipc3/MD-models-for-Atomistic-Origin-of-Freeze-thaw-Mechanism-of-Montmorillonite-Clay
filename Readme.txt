@@ -1,4 +1,4 @@
-MD models for "Atomistic Origin of Freeze-thaw Mechanism of Montmorillonite Clay"
+MD models for the paper: Wei et al., Atomistic origin of montmorillonite clay subjected to freeze-thaw hysteresis, Journal of Rock Mechanics and Geotechnical Engineering, 2024. https://doi.org/10.1016/j.jrmge.2024.11.004.
 
 01-initial-Mt-ice-model.data: This is initial Mt-ice model, as shown in Figure 2.
 02-Equi.1-for-100ns-at-270k.data: This is Mt-water-ice model after energy minimization and Equi. 1 for 100 ns at 270 K.
